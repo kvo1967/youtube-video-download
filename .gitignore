@@ -1,0 +1,8 @@
+# .gitignore - tells Git what NOT to track
+.venv/
+.env
+__pycache__/
+*.pyc
+downloads/
+video_batches/
+video_index_aztv/
